@@ -1,0 +1,5 @@
+/vendor
+package-lock.json
+.idea/
+index.php
+composer.lock

@@ -1,0 +1,18 @@
+{
+    "name": "yarmoshuk/check-closing-brackets",
+    "description": "checking the opening and closing of brackets in the string",
+    "authors": [
+        {
+            "name": "Sergey Yarmoshuk",
+            "email": "sergey.yarmoshuk@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Parenthesis\\": "src/"
+        }
+    }
+}
